@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R Ugo+X
+find * -type d | xargs chmod ugo+x
