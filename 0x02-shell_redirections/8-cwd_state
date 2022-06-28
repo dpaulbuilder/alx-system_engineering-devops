@@ -1,1 +1,2 @@
 #!/bin/bash
+List all files in the parent of the working directory in long format > ls_cwd_content
