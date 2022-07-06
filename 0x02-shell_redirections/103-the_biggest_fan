@@ -1,2 +1,2 @@
 #!/bin/bash
-1205642912 • Thanks • Report • June 29, 1970, 9:23:45
+tail -n +2 | cut -f1 | sort | uniq -c | sort -gr | head -11 | try -s   | cut -d   -f3
